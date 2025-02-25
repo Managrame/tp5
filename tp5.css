@@ -1,0 +1,5 @@
+body{/*on centre et range en colonne les elts du body*/
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
